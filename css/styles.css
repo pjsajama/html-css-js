@@ -1,0 +1,40 @@
+/*header*/
+
+.header {
+    background-color: rgba(53,58,64,255);
+    margin-top: 0 !important;
+    text-align: right;
+}
+
+/*carusel*/
+
+/*oradores*/
+
+.card-body {
+    text-align: left;
+}
+
+/*lugar y fecha*/
+
+.lugar {
+    text-align: left; 
+    background-color: rgba(53,58,64,255); 
+    color: white;
+}
+
+/*formulario*/
+.formulario {
+    text-align: center;
+}
+.form-text {
+    text-align: left;
+}
+
+/*footer*/
+
+.footer {
+    background-color: rgba(30,81,112,255);
+    text-align:center;
+}
+
+
